@@ -6,5 +6,5 @@ This project presents a contextual information-entropy constraint to discern kno
 The project develops tailored decoding strategies to solve knowledge conflicts based on the contextual information-entropy constraint. Experimental results demonstrate that our method significantly augments the model's faithfulness to conflicting contexts and exhibits enhanced performance and robustness varying across diverse datasets and models.
 
 <p align="center">
-  <img src="method-acl.pdf" width="1000" title="COIECD method overview" alt="">
+  <img src="method-acl.png" width="1000" title="COIECD method overview" alt="">
 </p>
